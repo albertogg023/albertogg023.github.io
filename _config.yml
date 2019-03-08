@@ -9,13 +9,13 @@ sass:
   style: compressed
 
 # Resume settings
-resume_name:                    "Miguel Ángel Abellán"
+resume_name:                    "Alberto Gálvez Gálvez"
 resume_title:                   "Desarrollador web"
 
-resume_contact_email:           "info@migueabellan.es"
-resume_header_intro: "Programador por profesión, mentor de programación por vocación. Cofundador Iniciativa Programo Ergo Sum, Presidente CoderDojo España, #maker y más cosillas."
+resume_contact_email:           "albertogg023@gmail.com"
+resume_header_intro: "Un estudiante de programación, con mucha vocación y gran pasión."
 
 resume_social_links:
-  resume_github_url:            "https://github.com/migueabellan"
-  resume_twitter_url:           "http://twitter.com/migueabellan"
-  resume_linkedin_url:          "https://www.linkedin.com/in/migueabellan"
+  resume_github_url:            "https://github.com/albertogg023"
+ # resume_twitter_url:           "http://twitter.com/migueabellan"
+ # resume_linkedin_url:          "https://www.linkedin.com/in/migueabellan"
