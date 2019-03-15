@@ -1,12 +1,12 @@
 - company: Desarrollador Web y Backend
   position: Freelance
-  duration: Mayo, 2009 &mdash; Actualidad
+  duration: Agosto, 2018 &mdash; Actualidad
   summary: Desarrollador de aplicaciones web. <ul class="resume-item-list"><li>Backend, PHP7 Symfony 3, 4</li><li>Frontend, JS Vue.js, Nuxt.js</li><li>SysAdmin, DevOps</li></ul>
 
-- company: Formador en Programación y Robótica
-  position: Centro de Profesorado y Recursos (CPR Murcia)
+- company: Asociación CoderDojo
+  position: Intregrante asociación
   duration: Octubre, 2015 &mdash; Actualidad
-  summary: Formador de profesorado no universitario de la Consejería de Educación, Juventud y Deportes de centros educativos sostenidos con fondos públicos de la Región de Murcia.<ul class="resume-item-list"><li>Recursos Educativos mediante la programación de VideoJuegos</li><li>Programación y Robótica para la integración de alumnos con NEE</li><li>Gamificación y Programación con Raspberry Pi</li><li>Programación en Python con Raspberry Pi</li><li>Programación y Robótica en Secundaria</li><li>Programación y Robótica en Primaria</li><li>Jornadas sobre Programación y Robótica Educativa</li></ul>
+  summary: Formador de alumnos para las olimpiadas de informática murcianas (OIRM), así como de introductor en las bases de la programación a niños y adolescentes.<ul class="resume-item-list"><li>Recursos Educativos mediante la programación de VideoJuegos</li><li>Programación y Robótica para la integración de alumnos con NEE</li><li>Programación de Arduino</li><li>Programación y Robótica en Secundaria</li><li>Programación y Robótica en Primaria</li><li>Jornadas sobre Programación y Robótica Educativa</li></ul>
 
 - company: Formador de Arduino
   position: Arduino Education
