@@ -6,7 +6,8 @@
 - degree: Certificate Advanced Exam (C1 inglés)
   uni: Cambridge
   year: 2019
-  awards: Grado A (nivel C2)
+  awards:
+    -Grado A (nivel C2)
 
 - degree: Bachiller Tecnológico
   uni: IES Alfonso X, el Sabio
