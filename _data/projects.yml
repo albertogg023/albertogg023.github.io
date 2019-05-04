@@ -3,10 +3,11 @@
   role: Creador
   duration: 2018 &mdash; 2019
   url: "Proyecto accésit de la categoría gráfica de las OIRM 18"
-  description: Agrupación informal de dojos o clubes gratuitos de programación activos en territorio español. <ul class="resume-item-list"><li><a href="http://www.coderdojo.es" target="_blank">CoderDojo España</a> Asociación CoderDojo España</li></ul>
+  description: Programa que representa las distintas funciones matemáticas pudiendo modificar sus parámetros y diseño. También calcula su derivada en un punto, y su intragal definida entre dos. 
 
 - project: Proyecto accésit de la categoría gráfica de las de las Olimpiadas de informática de la Región de Murcia de 2018
   role: Creador
   duration: 2018
   url: "http://descubre.inf.um.es/muestra.php?id=d786975aa612351e914bffa20b2130a4"
-  description: Elaborador del material del programa educativo "El Cable Amarillo", proyecto educativo para fomentar el uso de la Programación y Robótica en los centros educativos. <ul class="resume-item-list"><li><a href="http://www.elcableamarillo.cc" target="_blank">El Cable Amarillo</a> Acceso al repositorio de prácticas educativas de programación y robótica para educación secundaria.</li></ul>
+  description: Programa que muestra el sceso físico como tiro parabólico, así dibujando su trayectoria y calculando su altura máxima, tiempo de caida y alcance.
+  
