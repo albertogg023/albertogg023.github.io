@@ -1,14 +1,14 @@
 - organization: Olimpiadas de informática de la Región de Murcia
   role: 1ª Posición, categoría gráfica
   year: Murcia 2019
-  # url: "#"
+  url: "http://olimpiada.inf.um.es/"
   summary: Programación de representador de funciones lineales.
     
   
 - organization: Olimpiadas de informática de la Región de Murcia
   role: Accésit, categoría gráfica
   year: Murcia 2018
-  # url: "#"
+  url: "http://olimpiada.inf.um.es/index-2018.html"
   summary: Programación del fenómeno físico conocido como tiro parabólico.
 
 
