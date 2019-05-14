@@ -2,12 +2,12 @@
 - project: Proyecto ganador de la categoría gráfica de las Olimpiadas de informática de la Región de Murcia de 2019
   role: Creador
   duration: 2018 &mdash; 2019
-  url: "http://descubre.inf.um.es/muestra.php?id=8b3badd5a2b739472af5cd5f19bc7b0d"
+  url: "https://github.com/albertogg023/Olimpiadas-informatica-OIRM"
   description: Programa que representa las distintas funciones matemáticas, pudiendo modificar sus parámetros y diseño. También calcula su respectivas en un punto, y su intragal definida entre dos. 
 
 - project: Proyecto accésit de la categoría gráfica de las de las Olimpiadas de informática de la Región de Murcia de 2018
   role: Creador
   duration: 2018
-  url: "http://descubre.inf.um.es/muestra.php?id=d786975aa612351e914bffa20b2130a4"
+  url: https://github.com/albertogg023/Olimpiadas-informatica-OIRM"
   description: Programa que muestra el suceso físico como tiro parabólico. Dada una velocidad y un ángulo de disparo, dibujando su trayectoria, y calculando su altura máxima, tiempo de caida y alcance.
   
